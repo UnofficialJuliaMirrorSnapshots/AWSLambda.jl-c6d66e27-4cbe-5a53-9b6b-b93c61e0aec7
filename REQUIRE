@@ -1,0 +1,16 @@
+julia 0.6.2
+AWSCore 0.3
+AWSSQS
+AWSS3
+AWSEC2
+AWSIAM
+InfoZIP
+DataStructures
+Glob
+JSON
+SymDict 0.1.2
+FNVHash
+Primes
+Retry
+HTTP
+AWSSNS # test-only?
